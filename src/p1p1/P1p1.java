@@ -15,7 +15,7 @@ public class P1p1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola Github V2.0");
+        System.out.println("Hola Github V3.0");
     }
     
 }
